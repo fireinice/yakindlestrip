@@ -9,7 +9,7 @@ setup(
     author           = 'Zigler Zhang',
     author_email     = 'zigler.zhang@gmail.com',
     url              = 'https://github.com/fireinice/yakindlestrip',
-
+    license          = open("LICENSE").read(),
     scripts         = ['kindlestrip.py'],
 
     classifiers      = (
